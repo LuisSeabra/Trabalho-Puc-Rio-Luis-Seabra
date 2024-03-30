@@ -1,2 +1,2 @@
 Primeiramente, foram baixadas as bibliotecas básicas e as do Sktlearn para a realização das análises. Foi o importado o conjunto de dados de doenças coronarianias do KAGGLE, 
-e realizadas as análises qunto às células repetidas e em branco, as quais foram suprimidas para que não causassem overfitting. Após isso, foram analisados os algorítimos, verificando-se a melhor acurácia.
+e realizadas as análises qunto às células repetidas e em branco, as quais foram suprimidas para que não causassem overfitting. Em seguida foram eliminados os outliers das variávies Chol e thalac.Finalmente,  foram analisados os algorítimos KNN, Naive Bayes, SVM e Árvore de Classificação, verificando-se a melhor acurácia para o Algorítmo Naive Bayes.
