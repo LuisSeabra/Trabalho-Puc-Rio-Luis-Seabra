@@ -1,2 +1,4 @@
 O "Heart Disease Dataset" é um conjunto de dados disponível no Kaggle que contém informações relacionadas a fatores de risco e diagnóstico de doenças cardíacas. Esse conjunto de dados é amplamente utilizado em estudos e análises na área de saúde e ciência de dados.
 Primeiramente, foram baixadas as bibliotecas básicas e as do Sktlearn para a realização das análises e realizadas as análises quanto às células repetidas e em branco, as quais foram suprimidas para que não causassem overfitting. Em seguida foram eliminados os outliers das variávies Chol e thalac.Finalmente,  foram analisados os algorítimos KNN, Naive Bayes, SVM e Árvore de Classificação, verificando-se a melhor acurácia para o Algorítmo Naive Bayes.
+
+cópia do link: https://github.com/LuisSeabra/Trabalho-Puc-Rio-Luis-Seabra/blob/dfa8f44a0b5626a01b095dc35e94b5796bd9cd5b/C%C3%B3pia_de_Trabalho_de_ML_Puc_Rio.ipynb
